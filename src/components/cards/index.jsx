@@ -4,7 +4,7 @@ import { clsx } from "clsx";
 import image1 from "./frontt.jpeg";
 import image2 from "./front.jpg";
 import image3 from "./two.jpeg";
-import image4 from "./last.jpg";
+import image4 from "./lastt.png";
 import image5 from "./back.jpeg";
 // import { react } from "@vitejs/plugin-react-swc";
 import styled from "styled-components";
@@ -237,7 +237,7 @@ const Cards = () => {
                 href="https://www.myregistry.com/wedding-registry/francess-oko-and-christian-nwabunike-mississauga-on/3941340"
                 target="_blank"
               >
-                CLICK HERE TO GIFT THE COUPLES
+                CLICK HERE TO GIFT THE COUPLE
               </Link>
             </ImageAndLink>
           </Paper>
